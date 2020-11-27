@@ -1,0 +1,60 @@
+Texte für das HTML/CSS Tutorial (übernommen von https://www.pokewiki.de/Pikachu)
+
+Absatz 1:
+Pikachu ist ein kleines, nagerähnliches Pokémon, das gelb, schwarz, braun und rot auftritt. Der Großteil seines Körpers ist dabei gelb gefärbt. Die Spitzen der Ohren sind allerdings in schwarzer Farbe. Auch befinden sich auf seinem Rücken zwei breite, abgerundete Streifen brauner Farbe. Gleiches gilt für den Beginn des Schwanzes. Das ursprünglich etwas dickere und gedrungene Elektro-Pokémon ist mit der Zeit deutlich schlanker geworden. Auf dem Kopf wachsen zwei spitze, lange Ohren. Das Gesicht besteht aus den beiden schwarz-weißen, runden Augen, der sehr kleinen Nase, den beiden roten, mit Elektrizität gefüllten Backen und dem kleinen Mund. An seinen Vorderfüßen hat Pikachu fünf kurze Finger. Es besitzt breite Oberschenkel, die unmittelbar in die schmalen, langen Füße übergehen. An diesen hat es jeweils drei Zehen. Ein auffälliges Merkmal ist sein Schwanz, der die Form eines Blitzes hat.
+
+Absatz 2:
+Pikachu ist ein Pokémon mit dem Typ Elektro und existiert seit der ersten Spielgeneration. Es ist die erste Entwicklung von Pichu und kann sich selbst zu Raichu weiterentwickeln. Ferner ist es auf dem Cover der Pokémon Special Pikachu Edition und Pokémon: Let’s Go, Pikachu! zu sehen, wo es ebenfalls das Starter-Pokémon darstellt. Seit der achten Generation ist es in der Lage, per Gigadynamaximierung zu Gigadynamax-Pikachu zu werden.
+
+Absatz 3:
+Pikachu ist das Maskottchen im Anime und das Pokémon mit dem höchsten Bekanntheitsgrad und das Maskottchen des Pokémon-Franchises.
+
+Tabelle 1:
+Durch Levelaufstieg
+Level	Attacke	Typ	AP
+1	Donnerschock	Elektro	30
+1	Heuler	Normal	40
+9	Donnerwelle	Elektro	20
+16	Ruckzuckhieb	Normal	30
+26	Sternschauer	Normal	20
+33	Agilität	Psycho	30
+43	Donner	Elektro	10
+
+ 
+Tabelle 2:
+Durch TM/VM
+TM/VM	Attacke	Typ	AP
+TM01	Megahieb	Normal	20
+TM05	Megakick	Normal	5
+TM06	Toxin	Gift	10
+TM08	Bodyslam	Normal	15
+TM09	Bodycheck	Normal	20
+TM10	Risikotackle	Normal	15
+TM16	Zahltag	Normal	20
+TM17	Überroller	Kampf	25
+TM19	Geowurf	Kampf	20
+TM20	Raserei	Normal	20
+TM24	Donnerblitz	Elektro	15
+TM25	Donner	Elektro	10
+TM31	Mimikry	Normal	10
+TM32	Doppelteam	Normal	15
+TM33	Reflektor	Psycho	20
+TM34	Geduld	Normal	10
+TM39	Sternschauer	Normal	20
+TM40	Schädelwumme	Normal	15
+TM44	Erholung	Psycho	10
+TM45	Donnerwelle	Elektro	20
+TM50	Delegator	Normal	10
+VM05	Blitz	Elektro	20
+
+Listeneintrag 1:
+Japanische Forscher des Osaka Bioscience Institute benannten nach dem Pokémon ein neu entdecktes Protein: Das Pikachurin, welchem eine Rolle beim Bewegungssehen zugeschrieben wird. Es wurde nach Pikachus Schnelligkeit benannt.
+
+Listeneintrag 2:
+In den USA wurde ein amerikanischer Schulbus umgebaut, gelb lackiert und so entstand der legendäre Pikachu-Bus, der auch auf den deutschen Pokémon Days bis einschließlich 2010 dabei war.
+
+Listeneintrag 3:
+Pikachu wurde 2001 auf den Niue-Dollar gedruckt.
+
+Listeneintrag 4:
+Pikachu war 2014 das offizielle WM-Maskottchen der japanischen Fußball-Nationalmannschaft.
